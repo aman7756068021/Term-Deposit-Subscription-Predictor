@@ -61,7 +61,4 @@ This project analyzes customer demographics and financial behaviors to optimize 
 - Expand demographic analysis to include geographic and behavioral insights.
 - Develop AI-powered tools for personalized marketing campaigns.
 
-## Contribution
-We welcome suggestions and contributions to improve the project. Please feel free to submit issues or pull requests to enhance the insights and strategies provided.
-
 
