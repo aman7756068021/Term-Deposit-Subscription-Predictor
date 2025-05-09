@@ -1,6 +1,10 @@
 ## Overview
 This project analyzes customer demographics and financial behaviors to optimize marketing strategies for term deposit subscriptions. By identifying key trends, such as education level, job type, loan status, and marital status, the project provides actionable insights to improve subscription rates and customer engagement.
 
+![image](https://github.com/user-attachments/assets/74a23e8a-8263-472c-987b-1aeb42b966f7)
+
+![image](https://github.com/user-attachments/assets/228225d4-0355-4ebe-8789-b2bfa120b538)
+
 ## Key Insights
 
 ### Marital Status
